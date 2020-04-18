@@ -18,6 +18,14 @@ h6 {
   font-weight: 700;
 }
 
+
+
+.active-cyan-3 input[type=text] {
+  border: 1px solid #4dd0e1;
+  box-shadow: 0 0 0 1px #4dd0e1;
+}
+
+
 header.masthead {
   position: relative;
   background-color: #343a40;
@@ -49,6 +57,37 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
+}
+
+
+
+.searchResults{
+
+  background-color: powderblue;
+  font-size: medium;
+}
+
+.icon{
+  width: 70px;
+  height: 60px;
+  text-align: left;
+}
+
+.Manager
+{
+  font-size: medium;
+  text-align: left;
+  vertical-align: text-top;
+}
+
+.badges{
+  text-align: right;
+}
+
+.Other 
+{
+  font-size: small;
+  text-align: left;
 }
 
 .showcase .showcase-text {
