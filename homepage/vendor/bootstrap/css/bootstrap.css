@@ -2421,8 +2421,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #FD9200;
+  border-color: #FD9200;
 }
 
 .btn-primary:hover {
@@ -4154,7 +4154,7 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 2rem 1rem;
 }
 
 .navbar > .container,
@@ -4174,7 +4174,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 2rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -9845,7 +9845,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #FD9200 !important;
 }
 
 .text-primary {
