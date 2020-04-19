@@ -477,7 +477,7 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -2421,8 +2421,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #FD9200;
-  border-color: #FD9200;
+  background-color:#2984EA;
+  border-color: #2984EA;
 }
 
 .btn-primary:hover {
@@ -4171,7 +4171,7 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
+  padding-top: 0.01rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 2rem;
@@ -6568,7 +6568,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #ffffff !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -9845,7 +9845,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #FD9200 !important;
+  color: #ffffff !important;
 }
 
 .text-primary {
