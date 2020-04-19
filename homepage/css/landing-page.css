@@ -20,16 +20,17 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  background-color: #76B6FF;
+  background: url("../img/background.png") no-repeat center center;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
 
+/*This is the overlay that gave the header a tint.*/
 header.masthead .overlay {
   position: absolute;
-  background-color: #212529;
+  /*background-color: #212529;*/
   height: 100%;
   width: 100%;
   top: 0;
@@ -43,8 +44,8 @@ header.masthead h1 {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
   }
   header.masthead h1 {
     font-size: 3rem;

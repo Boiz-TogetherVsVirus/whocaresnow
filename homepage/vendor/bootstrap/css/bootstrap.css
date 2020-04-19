@@ -477,7 +477,7 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -2421,8 +2421,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color:#2984EA;
+  border-color: #2984EA;
 }
 
 .btn-primary:hover {
@@ -4154,7 +4154,7 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 2rem 1rem;
 }
 
 .navbar > .container,
@@ -4171,10 +4171,10 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
+  padding-top: 0.01rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 2rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -6568,7 +6568,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #ffffff !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -9845,7 +9845,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #ffffff !important;
 }
 
 .text-primary {
