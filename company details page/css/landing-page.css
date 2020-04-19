@@ -17,6 +17,22 @@ h6 {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
+h7{
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 7000;
+  text-align: left;
+}
+h8{
+  text-align: center;
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center; 
+}
 
 header.masthead {
   position: relative;
@@ -123,4 +139,78 @@ header.masthead h1 {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+
+.name{
+  background-color:#76B6FF;
+  padding:20px;
+  margin: 0px;
+  margin-bottom:0px;
+  font-size: 50px;
+}
+
+.intro{
+  background-color:white;
+  padding:10px;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.companyDescription{
+  background-color:#76B6FF;
+  padding:20px;
+  padding-left:100px;
+
+}
+.form-row{
+  padding-left:20px;
+  padding-right: 20px;
+  background-color:lightgrey;
+  background: none;
+}
+
+.comments{
+  text-align: left;
+  padding: 20px;
+  padding-left: 50px;
+  background-color:rgb(0, 140, 255);
+  margin:25px;
+  margin-left: 50px;
+  margin-right: 50px;
+  
+}
+
+.noteComment{
+  font-size: 15px;
+  text-align: left;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.commentSection{
+  background-color:lightblue;
+  padding:15px;
+  font-size: 20px;
+}
+
+.opinion{
+  padding:10px;
+  background-color: rgb(0, 150, 212);
+  padding-top: 15px;
+  margin:20px;
+  font-size: 15px;
+}
+
+.registerCompany{
+  padding:15px;
+  background-color:lightgray;
+}
+
+.mb-4{
+  font-size:20px;
+}
+
+.precautions{
+  font-weight: bolder;
 }
