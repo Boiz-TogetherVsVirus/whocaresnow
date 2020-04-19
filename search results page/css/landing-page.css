@@ -61,17 +61,35 @@ header.masthead h1 {
 
 
 
+/* a {
+  display: block;
+  margin-top: 168px;
+width: 200px;
+  height: 140px;
+  background-color: red;
+  position: absolute;
+  z-index: 0;
+  opacity: 0;
+  color: white;
+} */
+
 .searchResults{
 
-  background-color: powderblue;
+  background-color: #76B6FF;
+padding-left: 15px;
+padding-right: 15px;
   font-size: medium;
+
 }
 
-.icon{
-  width: 70px;
-  height: 60px;
+.logo{
+  
+  padding-top: 20px;
   text-align: left;
+  vertical-align: text-top;
+  
 }
+
 
 .Manager
 {
@@ -82,6 +100,8 @@ header.masthead h1 {
 
 .badges{
   text-align: right;
+  vertical-align:text-top;
+  float: right;
 }
 
 .Other 
@@ -163,3 +183,6 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+
+
